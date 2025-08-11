@@ -109,14 +109,46 @@ için ideal bir yaklaşımdır. Özellikle karmaşık kullanıcı arayüzü (UI)
 
 
 ## Ekran Resimi 1
+
 <img width="1909" height="1079" alt="TerminalEkrani1" src="https://github.com/user-attachments/assets/c246b230-16d6-4b07-bbf0-781e228aa422" />
+
 ## Ekran Resimi 2 
+
 <img width="1916" height="1079" alt="TerminalEkrani2" src="https://github.com/user-attachments/assets/102ae72c-eeb1-40e8-8d14-5dff46bc8201" />
+
 ## Ekran Resimi 3
+
 <img width="1919" height="1079" alt="TerminalEkrani3" src="https://github.com/user-attachments/assets/3ba00524-43ef-4ce1-89a6-7a3e8d3cbd66" />
+
 ## Ekran Resimi 4
+
 <img width="1919" height="1079" alt="TerminalEkrani4" src="https://github.com/user-attachments/assets/e10a31e7-23aa-4ce6-80a6-e1df908020e8" />
+
 ## Ekran Resimi 5
+
 <img width="1919" height="1072" alt="TerminalEkrani5" src="https://github.com/user-attachments/assets/4745e1d7-ca5d-4b00-9a31-586bd7f8001b" />
+
+## Telefon Ekran Görüntüleri
+
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/cd1cc15b-e07d-446c-bdb9-397f5d448c4f" width="300" alt="Telefon Ekran Görüntüsü 1">
+  <img src="https://github.com/user-attachments/assets/caf272e6-3128-4824-a079-9efaf06bc5cd" width="300" alt="Telefon Ekran Görüntüsü 2">
+  <img src="https://github.com/user-attachments/assets/627c89b8-f49e-40ca-bdf8-8923f590954a" width="300" alt="Telefon Ekran Görüntüsü 3">
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/8b23a5e1-99c3-4ffa-a4e5-c7082653239b" width="300" alt="Telefon Ekran Görüntüsü 4">
+  <img src="https://github.com/user-attachments/assets/6ac75e9e-b0fc-40db-a1c4-ecdfcb3aedb4" width="300" alt="Telefon Ekran Görüntüsü 5">
+  <img src="https://github.com/user-attachments/assets/5ecea703-ab6b-4db5-85f2-ebdcb479beeb" width="300" alt="Telefon Ekran Görüntüsü 6">
+</div>
+
+
+<div style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/965972f6-3230-4157-b1bb-94dd1290e19f" width="300" alt="Telefon Ekran Görüntüsü 7">
+</div>
+
+
+
+
 
 

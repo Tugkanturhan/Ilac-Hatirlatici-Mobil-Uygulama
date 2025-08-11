@@ -106,12 +106,13 @@ için ideal bir yaklaşımdır. Özellikle karmaşık kullanıcı arayüzü (UI)
 
 ---
 
-![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani1.png)
-![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani2.png)
-![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani3.png)
-![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani4.png)
-![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani5.png)
 
 
+
+<img width="1909" height="1079" alt="TerminalEkrani1" src="https://github.com/user-attachments/assets/c246b230-16d6-4b07-bbf0-781e228aa422" />
+<img width="1916" height="1079" alt="TerminalEkrani2" src="https://github.com/user-attachments/assets/102ae72c-eeb1-40e8-8d14-5dff46bc8201" />
+<img width="1919" height="1079" alt="TerminalEkrani3" src="https://github.com/user-attachments/assets/3ba00524-43ef-4ce1-89a6-7a3e8d3cbd66" />
+<img width="1919" height="1079" alt="TerminalEkrani4" src="https://github.com/user-attachments/assets/e10a31e7-23aa-4ce6-80a6-e1df908020e8" />
+<img width="1919" height="1072" alt="TerminalEkrani5" src="https://github.com/user-attachments/assets/4745e1d7-ca5d-4b00-9a31-586bd7f8001b" />
 
 

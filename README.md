@@ -106,11 +106,11 @@ için ideal bir yaklaşımdır. Özellikle karmaşık kullanıcı arayüzü (UI)
 
 ---
 
-![Terminal Ekranı 1](images/TerminalEkrani1.png)
-![Terminal Ekranı 1](images/TerminalEkrani2.png)
-![Terminal Ekranı 1](images/TerminalEkrani3.png)
-![Terminal Ekranı 1](images/TerminalEkrani4.png)
-![Terminal Ekranı 1](images/TerminalEkrani5.png)
+![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani1.png)
+![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani2.png)
+![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani3.png)
+![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani4.png)
+![Terminal Ekranı 1](GitReadMeResimleriVEVideosu/TerminalEkrani5.png)
 
 
 

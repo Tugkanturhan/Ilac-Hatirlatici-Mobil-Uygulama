@@ -108,11 +108,15 @@ için ideal bir yaklaşımdır. Özellikle karmaşık kullanıcı arayüzü (UI)
 
 
 
-
+## Ekran Resimi 1
 <img width="1909" height="1079" alt="TerminalEkrani1" src="https://github.com/user-attachments/assets/c246b230-16d6-4b07-bbf0-781e228aa422" />
+## Ekran Resimi 2 
 <img width="1916" height="1079" alt="TerminalEkrani2" src="https://github.com/user-attachments/assets/102ae72c-eeb1-40e8-8d14-5dff46bc8201" />
+## Ekran Resimi 3
 <img width="1919" height="1079" alt="TerminalEkrani3" src="https://github.com/user-attachments/assets/3ba00524-43ef-4ce1-89a6-7a3e8d3cbd66" />
+## Ekran Resimi 4
 <img width="1919" height="1079" alt="TerminalEkrani4" src="https://github.com/user-attachments/assets/e10a31e7-23aa-4ce6-80a6-e1df908020e8" />
+## Ekran Resimi 5
 <img width="1919" height="1072" alt="TerminalEkrani5" src="https://github.com/user-attachments/assets/4745e1d7-ca5d-4b00-9a31-586bd7f8001b" />
 
 

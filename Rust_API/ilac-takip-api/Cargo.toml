@@ -1,0 +1,14 @@
+[package]
+name = "ilac-takip-api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] } # 'full' özelliği ile TcpListener vb. için gerekli
+serde = { version = "1", features = ["derive"] } # JSON serialize/deserialize için
+chrono = { version = "0.4", features = ["serde"] }
+serde_json = "1" # JSON işlemleri için
+sqlx = { version = "0.7", features = ["postgres", "runtime-tokio", "macros", "time"] } # PostgreSQL bağlantısı için
+dotenv = "0.15" # Ortam değişkenlerini .env dosyasından okumak için
+# Argon2 gibi şifre hashleme kütüphanesi hala şiddetle önerilir
+# argon2 = "0.5"

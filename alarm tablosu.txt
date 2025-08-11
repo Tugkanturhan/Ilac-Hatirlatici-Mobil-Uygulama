@@ -1,0 +1,16 @@
+CREATE TABLE alarms (
+    id SERIAL PRIMARY KEY,
+    type VARCHAR(255) NOT NULL,
+    time TIME NOT NULL,
+    alarm_date DATE,
+    is_enabled BOOLEAN NOT NULL DEFAULT TRUE,
+    monday BOOLEAN DEFAULT FALSE,
+    tuesday BOOLEAN DEFAULT FALSE,
+    wednesday BOOLEAN DEFAULT FALSE,
+    thursday BOOLEAN DEFAULT FALSE,
+    friday BOOLEAN DEFAULT FALSE,
+    saturday BOOLEAN DEFAULT FALSE,
+    sunday BOOLEAN DEFAULT FALSE,
+    repeat_type VARCHAR(20) DEFAULT 'none', 
+    repeat_interval INT DEFAULT 1 -- örneğin 1 = her hafta, 2 = 2 haftada 1
+);
